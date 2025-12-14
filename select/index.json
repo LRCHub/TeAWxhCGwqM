@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "テーマソング",
+  "base_artist": "Porno Graffitti",
+  "createdAt": "2025-12-14T08:27:33.050718Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Twinkle Star〜頼りの星〜(「東京シティ競馬2012」テーマソング)",
+      "artist": "Tokyo Ska Paradise Orchestra",
+      "has_synced": true,
+      "path": "select/01_Twinkle_Star〜頼りの星〜(「東京シティ競馬2012」テーマソング)_Tokyo_Ska_Paradise_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君の知らない物語 (テーマソング)",
+      "artist": "小川みか",
+      "has_synced": false,
+      "path": "select/02_君の知らない物語_(テーマソング)_小川みか.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "テーマソング",
+      "artist": "19",
+      "has_synced": false,
+      "path": "select/03_テーマソング_19.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Over Again(「KAMENRIDER memory of heroez」テーマソング)",
+      "artist": "Aya Kamiki, TAKUYA",
+      "has_synced": true,
+      "path": "select/04_Over_Again(「KAMENRIDER_memory_of_heroez」テーマソング)_Aya_Kamiki,_TAKUYA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Over Again(「KAMENRIDER memory of heroez」テーマソング)",
+      "artist": "Aya Kamiki",
+      "has_synced": true,
+      "path": "select/05_Over_Again(「KAMENRIDER_memory_of_heroez」テーマソング)_Aya_Kamiki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "テーマソング - From THE FIRST TAKE",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/06_テーマソング_-_From_THE_FIRST_TAKE_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "MUPPET(SEGAゲーム「クロヒョウ 龍が如く新章」テーマソング)",
+      "artist": "RIZE",
+      "has_synced": true,
+      "path": "select/07_MUPPET(SEGAゲーム「クロヒョウ_龍が如く新章」テーマソング)_RIZE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "テーマソング",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/08_テーマソング_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "テーマソング - From THE FIRST TAKE",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/09_テーマソング_-_From_THE_FIRST_TAKE_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "テーマソング",
+      "artist": "Porno Graffitti",
+      "has_synced": false,
+      "path": "select/pl_01_テーマソング_Porno_Graffitti.txt"
+    }
+  ]
+}
